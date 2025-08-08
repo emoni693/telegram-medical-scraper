@@ -1,0 +1,6 @@
+2025-08-07 12:54:07.290 | INFO     | __main__:scrape_channel:11 - Starting to scrape: https://t.me/lobelia4cosmetics
+2025-08-07 13:08:00.551 | INFO     | __main__:scrape_channel:11 - Starting to scrape: lobelia4cosmetics
+2025-08-07 13:11:30.185 | INFO     | __main__:scrape_channel:11 - Starting to scrape: lobelia4cosmetics
+2025-08-07 13:24:30.076 | INFO     | __main__:scrape_channel:37 - Finished scraping: lobelia4cosmetics
+2025-08-07 13:24:30.080 | INFO     | __main__:scrape_channel:11 - Starting to scrape: tikvahpharma
+2025-08-07 13:32:55.799 | INFO     | __main__:scrape_channel:37 - Finished scraping: tikvahpharma
