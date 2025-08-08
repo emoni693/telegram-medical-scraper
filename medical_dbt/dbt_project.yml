@@ -1,0 +1,15 @@
+name: medical_dbt
+version: '1.0'
+config-version: 2
+
+profile: medical_dbt
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+
+models:
+  medical_dbt:
+    +materialized: view
